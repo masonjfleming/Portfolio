@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\flems\\source\\repos\\Mason Fleming - CS 330L - Bonus Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\flems\\source\\repos\\Mason Fleming - CS 330L - Bonus Lab\\amplifyapp\\src\\App.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:amplifyapp\\src\\App.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\flems\\source\\repos\\Mason Fleming - CS 330L - Bonus Lab\\amplifyapp\\src\\Navbar.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:amplifyapp\\src\\Navbar.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\flems\\source\\repos\\Mason Fleming - CS 330L - Bonus Lab\\amplifyapp\\src\\Card.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:amplifyapp\\src\\Card.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\flems\\source\\repos\\Mason Fleming - CS 330L - Bonus Lab\\amplifyapp\\src\\App.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:amplifyapp\\src\\App.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\flems\\source\\repos\\Mason Fleming - CS 330L - Bonus Lab\\amplifyapp\\public\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:amplifyapp\\public\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\flems\\source\\repos\\Mason Fleming - CS 330L - Bonus Lab\\amplifyapp\\src\\Modal.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:amplifyapp\\src\\Modal.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Card.js",
+              "DocumentMoniker": "C:\\Users\\flems\\source\\repos\\Mason Fleming - CS 330L - Bonus Lab\\amplifyapp\\src\\Card.js",
+              "RelativeDocumentMoniker": "amplifyapp\\src\\Card.js",
+              "ToolTip": "C:\\Users\\flems\\source\\repos\\Mason Fleming - CS 330L - Bonus Lab\\amplifyapp\\src\\Card.js",
+              "RelativeToolTip": "amplifyapp\\src\\Card.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-04-10T20:14:53.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Navbar.js",
+              "DocumentMoniker": "C:\\Users\\flems\\source\\repos\\Mason Fleming - CS 330L - Bonus Lab\\amplifyapp\\src\\Navbar.js",
+              "RelativeDocumentMoniker": "amplifyapp\\src\\Navbar.js",
+              "ToolTip": "C:\\Users\\flems\\source\\repos\\Mason Fleming - CS 330L - Bonus Lab\\amplifyapp\\src\\Navbar.js",
+              "RelativeToolTip": "amplifyapp\\src\\Navbar.js",
+              "ViewState": "AgIAADUAAAAAAAAAAAAAwEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-04-10T20:15:02.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.css",
+              "DocumentMoniker": "C:\\Users\\flems\\source\\repos\\Mason Fleming - CS 330L - Bonus Lab\\amplifyapp\\src\\App.css",
+              "RelativeDocumentMoniker": "amplifyapp\\src\\App.css",
+              "ToolTip": "C:\\Users\\flems\\source\\repos\\Mason Fleming - CS 330L - Bonus Lab\\amplifyapp\\src\\App.css",
+              "RelativeToolTip": "amplifyapp\\src\\App.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-04-10T21:04:24.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.js",
+              "DocumentMoniker": "C:\\Users\\flems\\source\\repos\\Mason Fleming - CS 330L - Bonus Lab\\amplifyapp\\src\\App.js",
+              "RelativeDocumentMoniker": "amplifyapp\\src\\App.js",
+              "ToolTip": "C:\\Users\\flems\\source\\repos\\Mason Fleming - CS 330L - Bonus Lab\\amplifyapp\\src\\App.js",
+              "RelativeToolTip": "amplifyapp\\src\\App.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-04-10T00:48:47.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\flems\\source\\repos\\Mason Fleming - CS 330L - Bonus Lab\\amplifyapp\\public\\index.html",
+              "RelativeDocumentMoniker": "amplifyapp\\public\\index.html",
+              "ToolTip": "C:\\Users\\flems\\source\\repos\\Mason Fleming - CS 330L - Bonus Lab\\amplifyapp\\public\\index.html",
+              "RelativeToolTip": "amplifyapp\\public\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-04-10T21:21:35.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Modal.js",
+              "DocumentMoniker": "C:\\Users\\flems\\source\\repos\\Mason Fleming - CS 330L - Bonus Lab\\amplifyapp\\src\\Modal.js",
+              "RelativeDocumentMoniker": "amplifyapp\\src\\Modal.js",
+              "ToolTip": "C:\\Users\\flems\\source\\repos\\Mason Fleming - CS 330L - Bonus Lab\\amplifyapp\\src\\Modal.js",
+              "RelativeToolTip": "amplifyapp\\src\\Modal.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-04-10T20:14:59.068Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
